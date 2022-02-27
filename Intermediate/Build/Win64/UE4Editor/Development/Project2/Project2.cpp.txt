@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Documents\GitHub\UEGBTANKHW3\Intermediate\Build\Win64\UE4Editor\Development\Project2\Definitions.Project2.h
+C:\Users\Lenovo\Documents\GitHub\UEGBTANKHW3\Source\Project2\Project2.h
